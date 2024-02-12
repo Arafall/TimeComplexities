@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9522754f-6c8a-4f8f-b981-a6705a18cb7b" name="Changes" comment="Created AsymptoticAnalysis class and four methods.">
-      <change beforePath="$PROJECT_DIR$/src/edu/otc/AsymptoticAnalysis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/otc/AsymptoticAnalysis.java" afterDir="false" />
+    <list default="true" id="5496ff90-6f54-4043-97b0-cadfe180294e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,9 +20,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
+  "associatedIndex": 8
 }]]></component>
-  <component name="ProjectId" id="2cHbbnNWRmuXt2sAHBZaQN7nDEK" />
+  <component name="ProjectId" id="2cHgS6MPxbqsFCk8jytGvhUyked" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -37,10 +34,6 @@
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/danie/source/repos/Data Structures/Assignments",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/danie/source/repos/Data Structures/Assignments/TimeComplexities/src/edu/otc/Main.java",
     "vue.rearranger.settings.migration": "true"
@@ -49,47 +42,16 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9522754f-6c8a-4f8f-b981-a6705a18cb7b" name="Changes" comment="" />
-      <created>1707771524471</created>
+      <changelist id="5496ff90-6f54-4043-97b0-cadfe180294e" name="Changes" comment="" />
+      <created>1707773914214</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1707771524471</updated>
-      <workItem from="1707771525487" duration="1147000" />
+      <updated>1707773914214</updated>
+      <workItem from="1707773915222" duration="71000" />
     </task>
-    <task id="LOCAL-00001" summary="Initial commit.">
-      <option name="closed" value="true" />
-      <created>1707771911593</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1707771911593</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Added package, main class, and main method.">
-      <option name="closed" value="true" />
-      <created>1707772017087</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1707772017087</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Created AsymptoticAnalysis class and four methods.">
-      <option name="closed" value="true" />
-      <created>1707772446192</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1707772446192</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Initial commit." />
-    <MESSAGE value="Added package, main class, and main method." />
-    <MESSAGE value="Created AsymptoticAnalysis class and four methods." />
-    <option name="LAST_COMMIT_MESSAGE" value="Created AsymptoticAnalysis class and four methods." />
   </component>
 </project>
