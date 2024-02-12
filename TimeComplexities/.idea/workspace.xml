@@ -32,6 +32,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/danie/source/repos/Data Structures/Assignments",
     "node.js.detected.package.eslint": "true",
@@ -46,12 +47,13 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9522754f-6c8a-4f8f-b981-a6705a18cb7b" name="Changes" comment="" />
+      <changelist id="5496ff90-6f54-4043-97b0-cadfe180294e" name="Changes" comment="Initial commit." />
       <created>1707771524471</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1707771524471</updated>
       <workItem from="1707771525487" duration="1147000" />
+      <workItem from="1707774257441" duration="184000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit.">
       <option name="closed" value="true" />
@@ -77,16 +79,35 @@
       <option name="project" value="LOCAL" />
       <updated>1707772446192</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Initial commit.">
+      <option name="closed" value="true" />
+      <created>1707774329283</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1707774329283</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Initial commit." />
     <MESSAGE value="Added package, main class, and main method." />
     <MESSAGE value="Created AsymptoticAnalysis class and four methods." />
-    <option name="LAST_COMMIT_MESSAGE" value="Created AsymptoticAnalysis class and four methods." />
+    <MESSAGE value="Initial commit." />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit." />
   </component>
 </project>
