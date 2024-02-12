@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9522754f-6c8a-4f8f-b981-a6705a18cb7b" name="Changes" comment="Created AsymptoticAnalysis class and four methods.">
-      <change beforePath="$PROJECT_DIR$/src/edu/otc/AsymptoticAnalysis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/otc/AsymptoticAnalysis.java" afterDir="false" />
-    </list>
+    <list default="true" id="5496ff90-6f54-4043-97b0-cadfe180294e" name="Changes" comment="Initial commit." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,9 +20,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2cHbbnNWRmuXt2sAHBZaQN7nDEK" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -34,7 +32,6 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/danie/source/repos/Data Structures/Assignments",
     "node.js.detected.package.eslint": "true",
